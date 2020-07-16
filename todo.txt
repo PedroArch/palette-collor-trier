@@ -1,0 +1,19 @@
+Check List do projeto Paleta
+----------------------------
+Check ✓ TODO
+
+1. Set up
+  (✓) Criar as pastas e arquivos base
+  (✓) Preparar o HTML
+  (✓) Preparar o JS
+  (✓) Preparar os CSS's
+
+2. Layout
+  () Coluna de Cores
+  () Barras de Range
+  () Box não interativas
+
+3. JS
+  () Escutar o evento
+  () Transpor para a caixa text
+  () reagir na palata
