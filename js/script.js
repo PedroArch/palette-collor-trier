@@ -35,7 +35,7 @@ function handleRanges() {
 function setColors(red, green, blue) {
   palette.setAttribute(
     "style",
-    "background-color: rgb(" + red + ", " + blue + ", " + green + ")"
+    "background-color: rgb(" + red + ", " + green + ", " + blue + ")"
   );
 }
 
